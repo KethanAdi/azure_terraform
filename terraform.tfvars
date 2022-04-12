@@ -1,2 +1,2 @@
-image_id = "example"
+prefix = "example"
 location = "westus"
